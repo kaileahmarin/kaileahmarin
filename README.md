@@ -14,6 +14,10 @@ I also work with somatics, yoga therapy, visual art, photography, electronics, A
 
 Most things start as an experiment and become either a tool, a protocol, a prototype, a diagram, or an unnecessarily large rabbit hole.
 
+## doA2Ai
+
+[**doA2Ai**](https://github.com/kaileahmarin/doA2Ai) is an authorization layer for browser agents using WebMCP. Its V1 network human-test package contains the installable Chrome extension, deployable service and control-centre source, locked product contract, and owner/judge runbook for testing the real path from an external agent to live HTTPS targets: delegated allow, exact-action human review, policy block, and truthful receipts. It is an acceptance candidate—not a local demo, synthetic test environment, or standalone MCP integration.
+
 ## currently using
 
 Python · JavaScript / TypeScript · Qt · Git / GitHub · SQLite · local LLMs · retrieval systems · physical computing
